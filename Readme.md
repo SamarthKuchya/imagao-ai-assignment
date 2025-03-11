@@ -26,6 +26,7 @@ To set up the project environment, follow these steps:
 
 1. Clone this repository:
    git clone https://github.com/SamarthKuchya/imagao-ai-assignment.git
+
    cd imagao-ai-assignment
 
 2. Install the required dependencies:
