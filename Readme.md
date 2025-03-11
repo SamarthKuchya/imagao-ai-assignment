@@ -42,7 +42,3 @@ To run the Jupyter Notebook:
    jupyter notebook
    ```
 2. Open `Assignment.ipynb` and execute the cells in order.
-=======
-
-2. Open `Assignment.ipynb` and execute the cells in order.
->>>>>>> 255aed462ef20eb79d18e66698fd7fe71bd48583
