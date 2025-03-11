@@ -25,9 +25,9 @@ The following Python libraries are required to run this project:
 To set up the project environment, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/SamarthKuchya/imagao-ai-assignment.git
+   git clone <https://github.com/SamarthKuchya/imagao-ai-assignment.git>
 
-   cd imagao-ai-assignment
+   cd <imagao-ai-assignment>
 
 2. Install the required dependencies:
    pip install -r requirements.txt
