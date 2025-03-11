@@ -25,17 +25,19 @@ The following Python libraries are required to run this project:
 To set up the project environment, follow these steps:
 
 1. Clone this repository:
-   git clone <repository-url>
-   cd <repository-folder>
+   ```bash
+   git clone https://github.com/SamarthKuchya/imagao-ai-assignment.git
+   cd imagao-ai-assignment
    ```
-
 2. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
 
 ## Running the Code
 To run the Jupyter Notebook:
-
 1. Launch Jupyter Notebook:
+   ```bash
    jupyter notebook
-
+   ```
 2. Open `Assignment.ipynb` and execute the cells in order.
